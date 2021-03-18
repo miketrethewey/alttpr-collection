@@ -3,6 +3,7 @@
 import io
 import math
 import os
+import re
 
 from glob import glob
 from PIL import Image
@@ -11,6 +12,10 @@ from ZSPR import ZSPR
 local_resources = os.path.join(".","resources","ci","snes","zelda3","link")
 site_resources = os.path.join(".","snes","zelda3","link")
 online_resources = "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link"
+
+def strtr(s, repl):
+  pattern = '|'.join(map(re.escape, sorted(repl, key=len, reverse=True)))
+  return re.sub(pattern, lambda m: repl[m.group()], s)
 
 def add_thumb(thumb,png,height,x,y):
     thisThumb = Image.open(thumb).resize((16,height),0)
@@ -128,6 +133,14 @@ with(open(os.path.join(".","commit.txt"),"w")) as commit:
     commit.write("Update Site to v" + VERSION)
 
 sprites = []
+transtab = {
+  ' ': "",
+  '(': '-',
+  ')': "",
+  "'": "",
+  '.': "",
+  '/': ""
+}
 
 # get ZSPRs
 maxn = 0
@@ -140,7 +153,7 @@ for file in glob(os.path.join(site_resources,"sheets","*.zspr")):
         sprite = ZSPR(file)
         short_slug = sprite.slug[:sprite.slug.rfind('.')]
         names[short_slug] = sprite.name
-        maxn = max(maxn,len(sprite.name.replace(" ","")))
+        maxn = max(maxn,len(strtr(sprite.name,transtab)))
         sprites.append(sprite)
 # sort ZSPRs
 sprites.sort(key=lambda s: str.lower(s.name or "").strip())
@@ -193,7 +206,9 @@ for thumb in sorted(thumbs, key=lambda s: str.lower(s or "").strip()):
     slug = os.path.basename(thumb).replace(".png","")
     short_slug = slug[:slug.rfind('.')]
     name = names[short_slug]
-    selector = name.replace(" ","")
+    intab     = "("
+    outtab    = "-"
+    selector  = strtr(name,transtab)
     percent = (100 / (n / (i - 1)))
     spacer = "" if percent == 100 else " "
     num = n - i + 2
