@@ -16,8 +16,8 @@ function listingPage(consoleSlug="",gameSlug="",spriteSlug="") {
   isSprite = pageType == "sprite";
 
   data = {
-    "parent":   { "name": "SpriteSomething", "url": "https://artheau.github.io/SpriteSomething" },
-    "project":  { "name": "SpriteSomething-collections", "url": "https://miketrethewey.github.io/SpriteSomething-collections" },
+    "parent":   { "name": "ALttPR", "url": "https://alttpr.com" },
+    "project":  { "name": "ALttPR Collection", "url": "https://miketrethewey.github.io/alttpr-collection" },
     "console":  { "slug": consoleSlug },
     "game":     { "slug": gameSlug },
     "sprite":   { "slug": spriteSlug }
@@ -79,7 +79,7 @@ function listingPage(consoleSlug="",gameSlug="",spriteSlug="") {
       .append($("<li>")
         .append($("<a>").attr({
           "href": data["project"]["url"]
-        }).text("Custom Sprite Repositories")
+        }).text("Sprite Repository")
         )
       )
       .append($("<ul>").attr({
