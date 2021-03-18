@@ -131,7 +131,7 @@ if "release" in env["EVENT_TYPE"]:
     if "release" in event_manifest:
         if "tag_name" in event_manifest["release"]:
             num_events = 1
-            env["EVENT_MESSAGE"] = "SpriteSomething Collections " + \
+            env["EVENT_MESSAGE"] = "ALttPR Collection " + \
                 event_manifest["release"]["tag_name"]
             query = "releases/tag/" + event_manifest["release"]["tag_name"]
             if "assets" in event_manifest["release"]:

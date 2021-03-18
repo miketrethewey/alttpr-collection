@@ -10,7 +10,7 @@ from ZSPR import ZSPR
 
 local_resources = os.path.join(".","resources","ci","snes","zelda3","link")
 site_resources = os.path.join(".","snes","zelda3","link")
-online_resources = "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link"
+online_resources = "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link"
 
 def add_thumb(thumb,png,height,x,y):
     thisThumb = Image.open(thumb).resize((16,height),0)
@@ -196,7 +196,7 @@ for thumb in sorted(thumbs, key=lambda s: str.lower(s or "").strip()):
     selector = name.replace(" ","")
     percent = (100 / (n / (i - 1)))
     spacer = "" if percent == 100 else " "
-    num = n - i + 2 
+    num = n - i + 2
     css   += ((".icon-custom-%-*s{background-position:" + spacer + "-%.6f%% 0}/* %*d/%*d */") % (maxn, selector, percent, maxd, num, maxd, n)) + "\n"
     mini  += ('<div data-id="%*d/%*d" class="sprite sprite-mini icon-custom-%s" title="%s"></div>' % (maxd, num, maxd, n, selector, name)) + "\n"
     large += ('<div data-id="%*d/%*d" class="sprite sprite-preview icon-custom-%s" title="%s"></div>' % (maxd, num, maxd, n, selector, name)) + "\n"
