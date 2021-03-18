@@ -1,0 +1,112 @@
+# workflow name
+name: Deploy Pages
+
+# fire on
+on: [push, pull_request]
+
+# stuff to do
+jobs:
+  # Install/Process Templates
+  install-process-templates:
+    name: Process Templates
+    runs-on: ${{ matrix.os-name }}
+
+    # VM settings
+    #  os & python versions
+    strategy:
+      matrix:
+        # pages on one OS
+        os-name: [ubuntu-latest]
+        python-version: [3.8]
+
+    steps:
+      # checkout commit
+      - name: Checkout commit
+        uses: actions/checkout@v2
+      # install python
+      - name: Install Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+          architecture: "x64"
+      - run: |
+          python --version
+      # install dependencies via pip
+      - name: Install Dependencies via pip
+        env:
+          OS_NAME: ${{ matrix.os-name }}
+        run: |
+          python ./resources/ci/common/local_install.py
+      # Prepare AppVersion
+      - name: Prepare AppVersion
+        run: |
+          python ./resources/ci/common/prepare_appversion.py
+      # Process Templates
+      - name: Process Templates
+        run: |
+          python ./resources/ci/common/process_templates.py
+      # Create Z3Link Previews
+      - name: Create Z3Link Previews
+        run: |
+          python ./resources/ci/snes/zelda3/link/create_previews.py
+      # Process Z3Link Metadata
+      - name: Process Z3Link Metadata
+        run: |
+          python ./resources/ci/snes/zelda3/link/create_metadata.py
+      # Cleanup Workspace
+      - name: Cleanup Workspace
+        run: |
+          python ./resources/ci/common/cleanup.py
+      # upload pages artifact for later step
+      - name: Upload Pages Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: pages-${{ matrix.os-name }}
+          path: ./
+
+  # Install/Publish Pages
+  install-publish-pages:
+    name: Publish Pages
+    runs-on: ${{ matrix.os-name }}
+    needs: [ install-process-templates ]
+
+    # VM settings
+    #  os & python versions
+    strategy:
+      matrix:
+        # pages on one OS
+        os-name: [ubuntu-latest]
+        python-version: [3.8]
+
+    steps:
+      # checkout gh-pages
+      - name: Checkout commit
+        uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+      # download pages artifact
+      - name: Download Pages Artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: pages-${{ matrix.os-name }}
+          path: ./
+      # Prepare for GH-Pages
+      - name: Prepare for GH-Pages
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+      # List Differences
+      - name: List Differences
+        run: |
+          git diff --name-status --cached
+      # Set Commit
+      - name: Set Commit
+        run: |
+          git commit -q -F commit.txt
+          git log
+      # Push to GH-Pages
+      - name: Push to GH-Pages (PUBLISH)
+        run: |
+          git push
+        if: contains(github.ref, 'publish')
