@@ -18,6 +18,292 @@
     ]
   },
   {
+    "name": "Four Swords Link",
+    "author": "Mike Trethewey",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/4slink-armors.1.zspr",
+    "slug": "4slink-armors",
+    "tags": [
+      "Link",
+      "The Legend of Zelda: A Link to the Past",
+      "Male",
+      "Legend of Zelda",
+      "PC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Abigail",
+    "author": "Fish_waffle64",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/abigail.1.zspr",
+    "slug": "abigail",
+    "tags": [
+      "Abigail",
+      "Stardew Valley",
+      "Female",
+      "Stardew Valley",
+      "NPC"
+    ],
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Adol",
+    "author": "Yuushia",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/adol.1.zspr",
+    "slug": "adol",
+    "tags": [
+      "Adol Christin",
+      "Male",
+      "Ys",
+      "PC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Aggretsuko",
+    "author": "skovacs1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/aggretsuko.1.zspr",
+    "slug": "aggretsuko",
+    "tags": [
+      "Female",
+      "Cartoon",
+      "Aggretsuko"
+    ],
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Alice",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/alice.1.zspr",
+    "slug": "alice",
+    "tags": [
+      "Alice",
+      "Alice: Madness Returns",
+      "Female",
+      "American McGee",
+      "PC"
+    ],
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Angry Video Game Nerd",
+    "author": "ABOhiccups",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/angry-video-game-nerd.1.zspr",
+    "slug": "angry-video-game-nerd",
+    "tags": [
+      "Angry Video Game Nerd",
+      "Male",
+      "Personality"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Arcane",
+    "author": "MM102",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/arcane.1.zspr",
+    "slug": "arcane",
+    "tags": [
+      "Personality"
+    ],
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Ark (Cape)",
+    "author": "wzl",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ark.1.zspr",
+    "slug": "ark",
+    "tags": [
+      "Ark",
+      "Terranigma",
+      "Male",
+      "Terranigma",
+      "PC"
+    ],
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Ark (No Cape)",
+    "author": "Dorana",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ark-dorana.2.zspr",
+    "slug": "ark-dorana",
+    "tags": [
+      "Ark",
+      "Terranigma",
+      "Male",
+      "Terranigma",
+      "PC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Arrghus",
+    "author": "kan",
+    "version": 3,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/arrghus.3.zspr",
+    "slug": "arrghus",
+    "tags": [
+      "Arrghus",
+      "The Legend of Zelda: A Link to the Past",
+      "Male",
+      "Legend of Zelda",
+      "NPC"
+    ],
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Astronaut",
+    "author": "Malmo",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/astronaut.1.zspr",
+    "slug": "astronaut",
+    "tags": [
+      "IRL"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Asuna",
+    "author": "Natsuru Kiyohoshi",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/asuna.2.zspr",
+    "slug": "asuna",
+    "tags": [
+      "Female",
+      "Sword Art Online",
+      "PC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Badeline",
+    "author": "Jam",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/badeline.1.zspr",
+    "slug": "badeline"
+  },
+  {
+    "name": "Bananas In Pyjamas",
+    "author": "codemann8",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bananas-in-pyjamas.1.zspr",
+    "slug": "bananas-in-pyjamas"
+  },
+  {
+    "name": "Bandit",
+    "author": "Fenrika",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bandit.1.zspr",
+    "slug": "bandit"
+  },
+  {
+    "name": "Batman",
+    "author": "Ninjakauz",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/batman.1.zspr",
+    "slug": "batman"
+  },
+  {
+    "name": "Beau",
+    "author": "Achy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/beau.1.zspr",
+    "slug": "beau"
+  },
+  {
+    "name": "Bewp",
+    "author": "Valechec",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bewp.1.zspr",
+    "slug": "bewp"
+  },
+  {
+    "name": "Big Key",
+    "author": "kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bigkey.2.zspr",
+    "slug": "bigkey"
+  },
+  {
+    "name": "Birb",
+    "author": "Dr. Deadrewski",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/birb.2.zspr",
+    "slug": "birb"
+  },
+  {
+    "name": "Birdo",
+    "author": "BlackTycoon",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/birdo.1.zspr",
+    "slug": "birdo"
+  },
+  {
+    "name": "Black Mage",
+    "author": "TheRedMage",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/blackmage.1.zspr",
+    "slug": "blackmage"
+  },
+  {
+    "name": "Blacksmith Link",
+    "author": "Glan",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/blacksmithlink.1.zspr",
+    "slug": "blacksmithlink"
+  },
+  {
+    "name": "Blazer",
+    "author": "Herowho",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/blazer.1.zspr",
+    "slug": "blazer"
+  },
+  {
+    "name": "Blossom",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/blossom.1.zspr",
+    "slug": "blossom"
+  },
+  {
     "name": "Bob",
     "author": "kan",
     "version": 2,
@@ -35,6 +321,1875 @@
     ]
   },
   {
+    "name": "Bob Ross",
+    "author": "CaptainApathy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bobross.1.zspr",
+    "slug": "bobross"
+  },
+  {
+    "name": "Boco the Chocobo",
+    "author": "TarThoron",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/boco.2.zspr",
+    "slug": "boco"
+  },
+  {
+    "name": "Boo",
+    "author": "Zarby89",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/boo.2.zspr",
+    "slug": "boo"
+  },
+  {
+    "name": "Boo 2",
+    "author": "Achy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/boo-two.1.zspr",
+    "slug": "boo-two"
+  },
+  {
+    "name": "Bottle o' Goo",
+    "author": "Fish_waffle64",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bottle_o_goo.1.zspr",
+    "slug": "bottle_o_goo"
+  },
+  {
+    "name": "BotW Link",
+    "author": "Pasta La Vista",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/botw-link.1.zspr",
+    "slug": "botw-link"
+  },
+  {
+    "name": "BotW Zelda",
+    "author": "Roo",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/botw-zelda.1.zspr",
+    "slug": "botw-zelda"
+  },
+  {
+    "name": "Bowser",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bowser.1.zspr",
+    "slug": "bowser"
+  },
+  {
+    "name": "Bowsette",
+    "author": "Sarah Shinespark",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bowsette.1.zspr",
+    "slug": "bowsette"
+  },
+  {
+    "name": "Bowsette Red",
+    "author": "Sarah Shinespark",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bowsette-red.1.zspr",
+    "slug": "bowsette-red"
+  },
+  {
+    "name": "Branch",
+    "author": "cbass601",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/branch.1.zspr",
+    "slug": "branch"
+  },
+  {
+    "name": "Brian",
+    "author": "Herowho",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/brian.1.zspr",
+    "slug": "brian"
+  },
+  {
+    "name": "Broccoli",
+    "author": "kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/broccoli.2.zspr",
+    "slug": "broccoli"
+  },
+  {
+    "name": "Bronzor",
+    "author": "kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bronzor.2.zspr",
+    "slug": "bronzor"
+  },
+  {
+    "name": "B.S. Boy",
+    "author": "InTheBeef",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bsboy.1.zspr",
+    "slug": "bsboy"
+  },
+  {
+    "name": "B.S. Girl",
+    "author": "InTheBeef",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bsgirl.1.zspr",
+    "slug": "bsgirl"
+  },
+  {
+    "name": "Bubbles",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bubbles.1.zspr",
+    "slug": "bubbles"
+  },
+  {
+    "name": "Bullet Bill",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bullet_bill.1.zspr",
+    "slug": "bullet_bill"
+  },
+  {
+    "name": "Buttercup",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/buttercup.1.zspr",
+    "slug": "buttercup"
+  },
+  {
+    "name": "Cactuar",
+    "author": "RyuTech",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cactuar.1.zspr",
+    "slug": "cactuar"
+  },
+  {
+    "name": "Cadence",
+    "author": "Fish_waffle64",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cadence.1.zspr",
+    "slug": "cadence"
+  },
+  {
+    "name": "CarlSagan42",
+    "author": "FedoraFriday",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/carlsagan42.1.zspr",
+    "slug": "carlsagan42"
+  },
+  {
+    "name": "Casual Zelda",
+    "author": "Fish_waffle64",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/casual-zelda.1.zspr",
+    "slug": "casual-zelda"
+  },
+  {
+    "name": "Marvin the Cat",
+    "author": "Fish_waffle64",
+    "version": 3,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cat.3.zspr",
+    "slug": "cat"
+  },
+  {
+    "name": "Cat Boo",
+    "author": "JaySee87",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/catboo.1.zspr",
+    "slug": "catboo"
+  },
+  {
+    "name": "CD-i Link",
+    "author": "SnipSlum",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cdilink.1.zspr",
+    "slug": "cdilink"
+  },
+  {
+    "name": "Celes",
+    "author": "Deagans",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/celes.1.zspr",
+    "slug": "celes"
+  },
+  {
+    "name": "Charizard",
+    "author": "Charmander106",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/charizard.1.zspr",
+    "slug": "charizard"
+  },
+  {
+    "name": "Cheep Cheep",
+    "author": "Faw",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cheepcheep.1.zspr",
+    "slug": "cheepcheep"
+  },
+  {
+    "name": "Chibity",
+    "author": "Ecyro",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/chibity.1.zspr",
+    "slug": "chibity"
+  },
+  {
+    "name": "Chrizzz",
+    "author": "Chrizzz",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/chrizzz.1.zspr",
+    "slug": "chrizzz"
+  },
+  {
+    "name": "Cinna",
+    "author": "norskmatty",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cinna.1.zspr",
+    "slug": "cinna"
+  },
+  {
+    "name": "Cirno",
+    "author": "Achy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cirno.1.zspr",
+    "slug": "cirno"
+  },
+  {
+    "name": "Clifford",
+    "author": "PlaguedOne",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/clifford.1.zspr",
+    "slug": "clifford"
+  },
+  {
+    "name": "Clyde",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/clyde.1.zspr",
+    "slug": "clyde"
+  },
+  {
+    "name": "Conker",
+    "author": "Charmander106/SePH",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/conker.1.zspr",
+    "slug": "conker"
+  },
+  {
+    "name": "Cornelius",
+    "author": "Lori",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cornelius.1.zspr",
+    "slug": "cornelius"
+  },
+  {
+    "name": "Corona",
+    "author": "Herowho",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/corona.2.zspr",
+    "slug": "corona"
+  },
+  {
+    "name": "Crewmate",
+    "author": "Fish_waffle64",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/crewmate.2.zspr",
+    "slug": "crewmate"
+  },
+  {
+    "name": "Cucco",
+    "author": "Mike Trethewey",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cucco.2.zspr",
+    "slug": "cucco"
+  },
+  {
+    "name": "Cursor",
+    "author": "PlaguedOne",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cursor.1.zspr",
+    "slug": "cursor"
+  },
+  {
+    "name": "D.Owls",
+    "author": "D.Owls",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/d_owls.2.zspr",
+    "slug": "d_owls"
+  },
+  {
+    "name": "Dark Panda",
+    "author": "MM102",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/dark-panda.1.zspr",
+    "slug": "dark-panda"
+  },
+  {
+    "name": "Dark Boy",
+    "author": "iBazly",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/darkboy.1.zspr",
+    "slug": "darkboy"
+  },
+  {
+    "name": "Dark Girl",
+    "author": "iBazly",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/darkgirl.1.zspr",
+    "slug": "darkgirl"
+  },
+  {
+    "name": "Dark Link",
+    "author": "iBazly",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/darklink.1.zspr",
+    "slug": "darklink"
+  },
+  {
+    "name": "Dark Link (Tunic)",
+    "author": "Damon",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/darklink-tunic.1.zspr",
+    "slug": "darklink-tunic"
+  },
+  {
+    "name": "Dark Swatchy",
+    "author": "Mike Trethewey",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/darkswatchy.1.zspr",
+    "slug": "darkswatchy"
+  },
+  {
+    "name": "Dark Zelda",
+    "author": "iBazly",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/darkzelda.1.zspr",
+    "slug": "darkzelda"
+  },
+  {
+    "name": "Dark Zora",
+    "author": "iBazly",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/darkzora.2.zspr",
+    "slug": "darkzora"
+  },
+  {
+    "name": "Deadpool (SirCzah)",
+    "author": "SirCzah",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/deadpool.1.zspr",
+    "slug": "deadpool"
+  },
+  {
+    "name": "Deadpool (Mythic)",
+    "author": "Mythic",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/deadpool-mythic.1.zspr",
+    "slug": "deadpool-mythic"
+  },
+  {
+    "name": "Deadrock",
+    "author": "Glan",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/deadrock.1.zspr",
+    "slug": "deadrock"
+  },
+  {
+    "name": "Decidueye",
+    "author": "Achy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/decidueye.1.zspr",
+    "slug": "decidueye"
+  },
+  {
+    "name": "Dekar",
+    "author": "The3X",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/dekar.1.zspr",
+    "slug": "dekar"
+  },
+  {
+    "name": "Demon Link",
+    "author": "Krelbel",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/demonlink.1.zspr",
+    "slug": "demonlink"
+  },
+  {
+    "name": "Dipper",
+    "author": "Sharpefern",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/dipper.1.zspr",
+    "slug": "dipper"
+  },
+  {
+    "name": "Dragonite",
+    "author": "Fish_waffle64",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/dragonite.2.zspr",
+    "slug": "dragonite"
+  },
+  {
+    "name": "Drake The Dragon",
+    "author": "NO Body The Dragon",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/drake.2.zspr",
+    "slug": "drake"
+  },
+  {
+    "name": "Eggplant",
+    "author": "PlaguedOne",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/eggplant.1.zspr",
+    "slug": "eggplant"
+  },
+  {
+    "name": "Ema Skye",
+    "author": "Linlinlin",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ema-skye.1.zspr",
+    "slug": "ema-skye"
+  },
+  {
+    "name": "EmoSaru",
+    "author": "Achy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/emosaru.1.zspr",
+    "slug": "emosaru"
+  },
+  {
+    "name": "Ezlo",
+    "author": "cbass601",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ezlo.1.zspr",
+    "slug": "ezlo"
+  },
+  {
+    "name": "Fierce Deity Link",
+    "author": "Jeffreygriggs2",
+    "version": 3,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/fierce-deity-link.3.zspr",
+    "slug": "fierce-deity-link"
+  },
+  {
+    "name": "Finn Merten",
+    "author": "Devan2002",
+    "version": 3,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/finn.3.zspr",
+    "slug": "finn"
+  },
+  {
+    "name": "Finny Bear",
+    "author": "skovacs1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/finny_bear.1.zspr",
+    "slug": "finny_bear"
+  },
+  {
+    "name": "Floodgate Fish",
+    "author": "Delphi1024",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/fish_floodgate.1.zspr",
+    "slug": "fish_floodgate"
+  },
+  {
+    "name": "Flavor Guy",
+    "author": "PlaguedOne",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/flavor_guy.1.zspr",
+    "slug": "flavor_guy"
+  },
+  {
+    "name": "Fox Link",
+    "author": "InTheBeef",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/foxlink.1.zspr",
+    "slug": "foxlink"
+  },
+  {
+    "name": "Freya Crescent",
+    "author": "Demoncraze",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/freya.1.zspr",
+    "slug": "freya"
+  },
+  {
+    "name": "Frisk",
+    "author": "Toby Fox/MisterKerr",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/frisk.2.zspr",
+    "slug": "frisk"
+  },
+  {
+    "name": "Frog Link",
+    "author": "Mike Trethewey",
+    "version": 3,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/froglink.3.zspr",
+    "slug": "froglink"
+  },
+  {
+    "name": "Fujin",
+    "author": "FujinAkari",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/fujin.2.zspr",
+    "slug": "fujin"
+  },
+  {
+    "name": "Future Trunks",
+    "author": "Merciter",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/future_trunks.1.zspr",
+    "slug": "future_trunks"
+  },
+  {
+    "name": "Gamer",
+    "author": "InTheBeef",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/gamer.2.zspr",
+    "slug": "gamer"
+  },
+  {
+    "name": "Mini Ganon",
+    "author": "atth3h3art0fwinter",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ganon.2.zspr",
+    "slug": "ganon"
+  },
+  {
+    "name": "Ganondorf",
+    "author": "Fish_waffle64",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ganondorf.2.zspr",
+    "slug": "ganondorf"
+  },
+  {
+    "name": "Garfield",
+    "author": "Fwiller",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/garfield.2.zspr",
+    "slug": "garfield"
+  },
+  {
+    "name": "Garnet",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/garnet.1.zspr",
+    "slug": "garnet"
+  },
+  {
+    "name": "Garo Master",
+    "author": "Herowho",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/garomaster.1.zspr",
+    "slug": "garomaster"
+  },
+  {
+    "name": "GBC Link",
+    "author": "skovacs1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/gbc-link.1.zspr",
+    "slug": "gbc-link"
+  },
+  {
+    "name": "Geno",
+    "author": "FedoraFriday",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/geno.2.zspr",
+    "slug": "geno"
+  },
+  {
+    "name": "GliitchWiitch",
+    "author": "Ivy-IV",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/gliitchwiitch.1.zspr",
+    "slug": "gliitchwiitch"
+  },
+  {
+    "name": "Gobli",
+    "author": "Lantis",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/gobli.1.zspr",
+    "slug": "gobli"
+  },
+  {
+    "name": "Gooey",
+    "author": "Lougaroc",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/gooey.1.zspr",
+    "slug": "gooey"
+  },
+  {
+    "name": "Goomba",
+    "author": "SirCzah",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/goomba.1.zspr",
+    "slug": "goomba"
+  },
+  {
+    "name": "Goose",
+    "author": "Jam",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/goose.1.zspr",
+    "slug": "goose"
+  },
+  {
+    "name": "GrandPOOBear",
+    "author": "proximitysound",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/grandpoobear.2.zspr",
+    "slug": "grandpoobear"
+  },
+  {
+    "name": "Gretis",
+    "author": "SnakeGrunger",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/gretis.1.zspr",
+    "slug": "gretis"
+  },
+  {
+    "name": "Gruncle Stan",
+    "author": "SirCzah",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/grunclestan.1.zspr",
+    "slug": "grunclestan"
+  },
+  {
+    "name": "Guiz",
+    "author": "GuizDP",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/guiz.2.zspr",
+    "slug": "guiz"
+  },
+  {
+    "name": "Hanna",
+    "author": "Maya-Neko",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hanna.1.zspr",
+    "slug": "hanna"
+  },
+  {
+    "name": "Hardhat Beetle",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hardhat_beetle.1.zspr",
+    "slug": "hardhat_beetle"
+  },
+  {
+    "name": "Hat Kid",
+    "author": "skovacs1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hat-kid.1.zspr",
+    "slug": "hat-kid"
+  },
+  {
+    "name": "Headless Link",
+    "author": "kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/headlesslink.2.zspr",
+    "slug": "headlesslink"
+  },
+  {
+    "name": "Hello Kitty",
+    "author": "qeeen",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hello_kitty.1.zspr",
+    "slug": "hello_kitty"
+  },
+  {
+    "name": "Hero of Awakening",
+    "author": "Vonyee",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hero-of-awakening.1.zspr",
+    "slug": "hero-of-awakening"
+  },
+  {
+    "name": "Hero Of Hyrule ",
+    "author": "Vonyee",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hero-of-hyrule.1.zspr",
+    "slug": "hero-of-hyrule"
+  },
+  {
+    "name": "Hidari",
+    "author": "Hidari",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hidari.1.zspr",
+    "slug": "hidari"
+  },
+  {
+    "name": "Hint Tile",
+    "author": "PlaguedOne",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hint_tile.1.zspr",
+    "slug": "hint_tile"
+  },
+  {
+    "name": "Hoarder (Bush)",
+    "author": "Restomak",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hoarder-bush.1.zspr",
+    "slug": "hoarder-bush"
+  },
+  {
+    "name": "Hoarder (Pot)",
+    "author": "Restomak",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hoarder-pot.1.zspr",
+    "slug": "hoarder-pot"
+  },
+  {
+    "name": "Hoarder (Rock)",
+    "author": "Restomak",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hoarder-rock.1.zspr",
+    "slug": "hoarder-rock"
+  },
+  {
+    "name": "Hollow Knight",
+    "author": "Chew_Terr",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hollow-knight.2.zspr",
+    "slug": "hollow-knight"
+  },
+  {
+    "name": "Hollow Knight (Malmo/Winter)",
+    "author": "Malmo and Atth3h3art0fwinter",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hollow-knight-winter.1.zspr",
+    "slug": "hollow-knight-winter"
+  },
+  {
+    "name": "Homer Simpson",
+    "author": "Fwiller",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/homer.1.zspr",
+    "slug": "homer"
+  },
+  {
+    "name": "Hotdog",
+    "author": "Xag & Tylo",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hotdog.1.zspr",
+    "slug": "hotdog"
+  },
+  {
+    "name": "Hyrule Knight",
+    "author": "InTheBeef",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hyruleknight.1.zspr",
+    "slug": "hyruleknight"
+  },
+  {
+    "name": "iBazly",
+    "author": "Achy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ibazly.1.zspr",
+    "slug": "ibazly"
+  },
+  {
+    "name": "Ignignokt",
+    "author": "kan",
+    "version": 3,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ignignokt.3.zspr",
+    "slug": "ignignokt"
+  },
+  {
+    "name": "Informant Woman",
+    "author": "Herowho",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/informant_woman.1.zspr",
+    "slug": "informant_woman"
+  },
+  {
+    "name": "Inkling",
+    "author": "RyuTech",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/inkling.1.zspr",
+    "slug": "inkling"
+  },
+  {
+    "name": "Invisible Link",
+    "author": "Mike Trethewey",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/invisibleman.1.zspr",
+    "slug": "invisibleman"
+  },
+  {
+    "name": "Jack Frost",
+    "author": "xypotion",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/jack-frost.1.zspr",
+    "slug": "jack-frost"
+  },
+  {
+    "name": "Jason Frudnick",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/jason_frudnick.1.zspr",
+    "slug": "jason_frudnick"
+  },
+  {
+    "name": "Jasp",
+    "author": "Chonixtu",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/jasp.1.zspr",
+    "slug": "jasp"
+  },
+  {
+    "name": "Jogurt",
+    "author": "Nakuri",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/jogurt.1.zspr",
+    "slug": "jogurt"
+  },
+  {
+    "name": "Kain",
+    "author": "Chew Terr",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kain.1.zspr",
+    "slug": "kain"
+  },
+  {
+    "name": "Katsura",
+    "author": "atth3h3art0fwinter",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/katsura.2.zspr",
+    "slug": "katsura"
+  },
+  {
+    "name": "Kecleon",
+    "author": "Gylergin",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kecleon.1.zspr",
+    "slug": "kecleon"
+  },
+  {
+    "name": "Kefka",
+    "author": "ChewTerr",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kefka.1.zspr",
+    "slug": "kefka"
+  },
+  {
+    "name": "Kenny McCormick",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kenny_mccormick.1.zspr",
+    "slug": "kenny_mccormick"
+  },
+  {
+    "name": "Ketchup",
+    "author": "t0uchan",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ketchup.1.zspr",
+    "slug": "ketchup"
+  },
+  {
+    "name": "Kholdstare",
+    "author": "kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kholdstare.2.zspr",
+    "slug": "kholdstare"
+  },
+  {
+    "name": "King Gothalion",
+    "author": "kickpixel",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/king_gothalion.1.zspr",
+    "slug": "king_gothalion"
+  },
+  {
+    "name": "King Graham",
+    "author": "MisterKerr",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/king_graham.2.zspr",
+    "slug": "king_graham"
+  },
+  {
+    "name": "Kinu",
+    "author": "UberNooga",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kinu.1.zspr",
+    "slug": "kinu"
+  },
+  {
+    "name": "Kirby (Dreamland 3)",
+    "author": "Lougaroc",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kirby-d3.1.zspr",
+    "slug": "kirby-d3"
+  },
+  {
+    "name": "Kirby",
+    "author": "KHRoxas",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kirby-meta.1.zspr",
+    "slug": "kirby-meta"
+  },
+  {
+    "name": "Kore8",
+    "author": "Skewer",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kore8.1.zspr",
+    "slug": "kore8"
+  },
+  {
+    "name": "Korok",
+    "author": "atth3h3art0fwinter",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/korok.1.zspr",
+    "slug": "korok"
+  },
+  {
+    "name": "Kriv",
+    "author": "UltChimi",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kriv.1.zspr",
+    "slug": "kriv"
+  },
+  {
+    "name": "Lakitu",
+    "author": "SirCzah",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/lakitu.1.zspr",
+    "slug": "lakitu"
+  },
+  {
+    "name": "Lapras",
+    "author": "Fish_waffle64",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/lapras.1.zspr",
+    "slug": "lapras"
+  },
+  {
+    "name": "Lest",
+    "author": "PrideToRuleEarth",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/lest.1.zspr",
+    "slug": "lest"
+  },
+  {
+    "name": "Lily",
+    "author": "ScatlinkSean",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/lily.1.zspr",
+    "slug": "lily"
+  },
+  {
+    "name": "Linja",
+    "author": "Razhagal",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/linja.1.zspr",
+    "slug": "linja"
+  },
+  {
+    "name": "Link Redrawn",
+    "author": "Spiffy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/link-redrawn.1.zspr",
+    "slug": "link-redrawn"
+  },
+  {
+    "name": "Hat Color Link",
+    "author": "Damon",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/linkhatcolor.1.zspr",
+    "slug": "linkhatcolor"
+  },
+  {
+    "name": "Tunic Color Link",
+    "author": "Damon",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/linktuniccolor.1.zspr",
+    "slug": "linktuniccolor"
+  },
+  {
+    "name": "Little Hylian",
+    "author": "MM102",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/little-hylian.1.zspr",
+    "slug": "little-hylian"
+  },
+  {
+    "name": "Pony",
+    "author": "Botchos",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/littlepony.1.zspr",
+    "slug": "littlepony"
+  },
+  {
+    "name": "Locke",
+    "author": "Rose",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/locke.1.zspr",
+    "slug": "locke"
+  },
+  {
+    "name": "Figaro Merchant",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/locke_merchant.1.zspr",
+    "slug": "locke_merchant"
+  },
+  {
+    "name": "Lucario",
+    "author": "Achy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/lucario.1.zspr",
+    "slug": "lucario"
+  },
+  {
+    "name": "Luffy",
+    "author": "BOtheMighty",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/luffy.2.zspr",
+    "slug": "luffy"
+  },
+  {
+    "name": "Luigi",
+    "author": "Achy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/luigi.1.zspr",
+    "slug": "luigi"
+  },
+  {
+    "name": "Luna Maindo",
+    "author": "IkkyLights",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/luna-maindo.1.zspr",
+    "slug": "luna-maindo"
+  },
+  {
+    "name": "Lynel (BotW)",
+    "author": "Lougaroc",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/lynel-botw.1.zspr",
+    "slug": "lynel-botw"
+  },
+  {
+    "name": "Madeline",
+    "author": "Jam",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/madeline.1.zspr",
+    "slug": "madeline"
+  },
+  {
+    "name": "Magus",
+    "author": "PlaguedOne",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/magus.1.zspr",
+    "slug": "magus"
+  },
+  {
+    "name": "Maiden",
+    "author": "Plan",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/maiden.1.zspr",
+    "slug": "maiden"
+  },
+  {
+    "name": "Mallow (Cat)",
+    "author": "FedoraFriday",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mallow-cat.1.zspr",
+    "slug": "mallow-cat"
+  },
+  {
+    "name": "Manga Link",
+    "author": "kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mangalink.2.zspr",
+    "slug": "mangalink"
+  },
+  {
+    "name": "Maple Queen",
+    "author": "Zarby89",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/maplequeen.2.zspr",
+    "slug": "maplequeen"
+  },
+  {
+    "name": "Marin",
+    "author": "Nocturnesthesia",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/marin.2.zspr",
+    "slug": "marin"
+  },
+  {
+    "name": "Mario (Classic)",
+    "author": "Damon",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mario-classic.2.zspr",
+    "slug": "mario-classic"
+  },
+  {
+    "name": "Tanooki Mario",
+    "author": "Nocturnesthesia",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mario_tanooki.2.zspr",
+    "slug": "mario_tanooki"
+  },
+  {
+    "name": "Mario and Cappy",
+    "author": "Damon",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mariocappy.1.zspr",
+    "slug": "mariocappy"
+  },
+  {
+    "name": "Marisa Kirisame",
+    "author": "Achy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/marisa.1.zspr",
+    "slug": "marisa"
+  },
+  {
+    "name": "Matthias",
+    "author": "Marcus Bolduc",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/matthias.1.zspr",
+    "slug": "matthias"
+  },
+  {
+    "name": "Meatwad",
+    "author": "kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/meatwad.2.zspr",
+    "slug": "meatwad"
+  },
+  {
+    "name": "Medallions",
+    "author": "Mike Trethewey",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/medallions.1.zspr",
+    "slug": "medallions"
+  },
+  {
+    "name": "Medli",
+    "author": "Kzinssie",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/medli.1.zspr",
+    "slug": "medli"
+  },
+  {
+    "name": "Megaman X",
+    "author": "PlaguedOne",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/megaman-x.2.zspr",
+    "slug": "megaman-x"
+  },
+  {
+    "name": "Baby Metroid",
+    "author": "Jam",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/metroid.1.zspr",
+    "slug": "metroid"
+  },
+  {
+    "name": "MewLp",
+    "author": "MewLp",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mew.1.zspr",
+    "slug": "mew"
+  },
+  {
+    "name": "Mike Jones",
+    "author": "Fish_waffle64",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mike-jones.2.zspr",
+    "slug": "mike-jones"
+  },
+  {
+    "name": "Minish Link",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/minish_link.1.zspr",
+    "slug": "minish_link"
+  },
+  {
+    "name": "Minish Cap Link",
+    "author": "InTheBeef",
+    "version": 3,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/minishcaplink.3.zspr",
+    "slug": "minishcaplink"
+  },
+  {
+    "name": "missingno",
+    "author": "AAhbxsujd",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/missingno.2.zspr",
+    "slug": "missingno"
+  },
+  {
+    "name": "Moblin",
+    "author": "Noctai_",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/moblin.2.zspr",
+    "slug": "moblin"
+  },
+  {
+    "name": "Modern Link",
+    "author": "RyuTech",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/modernlink.1.zspr",
+    "slug": "modernlink"
+  },
+  {
+    "name": "Mog",
+    "author": "Krelbel",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mog.2.zspr",
+    "slug": "mog"
+  },
+  {
+    "name": "Momiji Inubashiri",
+    "author": "Ardaceus",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/momiji.1.zspr",
+    "slug": "momiji"
+  },
+  {
+    "name": "Moosh",
+    "author": "PlaguedOne",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/moosh.1.zspr",
+    "slug": "moosh"
+  },
+  {
+    "name": "Mouse",
+    "author": "Malthaez",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mouse.1.zspr",
+    "slug": "mouse"
+  },
+  {
+    "name": "Ms. Paint Dog",
+    "author": "TehRealSalt",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ms-paintdog.1.zspr",
+    "slug": "ms-paintdog"
+  },
+  {
+    "name": "Power Up with Pride Mushroom",
+    "author": "Achy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mushy.1.zspr",
+    "slug": "mushy"
+  },
+  {
+    "name": "Nature Link",
+    "author": "iBazly",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/naturelink.1.zspr",
+    "slug": "naturelink"
+  },
+  {
+    "name": "Navi",
+    "author": "qwertymodo",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/navi.1.zspr",
+    "slug": "navi"
+  },
+  {
+    "name": "Navirou",
+    "author": "Lori",
+    "version": 3,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/navirou.3.zspr",
+    "slug": "navirou"
+  },
+  {
+    "name": "Ned Flanders",
+    "author": "JJ0033LL",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ned-flanders.1.zspr",
+    "slug": "ned-flanders"
+  },
+  {
+    "name": "Negative Link",
+    "author": "iBazly",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/negativelink.1.zspr",
+    "slug": "negativelink"
+  },
+  {
+    "name": "Neosad",
+    "author": "Dr. Deadrewski",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/neosad.2.zspr",
+    "slug": "neosad"
+  },
+  {
+    "name": "NES Link",
+    "author": "Mike Trethewey/kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/neslink.2.zspr",
+    "slug": "neslink"
+  },
+  {
+    "name": "Ness",
+    "author": "Lantis",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ness.2.zspr",
+    "slug": "ness"
+  },
+  {
+    "name": "Nia",
+    "author": "Mojonbo",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/nia.1.zspr",
+    "slug": "nia"
+  },
+  {
+    "name": "Niddraig",
+    "author": "Jakebob",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/niddraig.1.zspr",
+    "slug": "niddraig"
+  },
+  {
+    "name": "Niko",
+    "author": "ScatlinkSean",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/niko.1.zspr",
+    "slug": "niko"
+  },
+  {
+    "name": "Old Man",
+    "author": "Zarby89",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/oldman.2.zspr",
+    "slug": "oldman"
+  },
+  {
+    "name": "Ori",
+    "author": "Phant",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ori.2.zspr",
+    "slug": "ori"
+  },
+  {
+    "name": "Outline Link",
+    "author": "VT",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/outlinelink.1.zspr",
+    "slug": "outlinelink"
+  },
+  {
+    "name": "Parallel Worlds Link",
+    "author": "SePH/InTheBeef",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/parallelworldslink.1.zspr",
+    "slug": "parallelworldslink"
+  },
+  {
+    "name": "Paula",
+    "author": "Fish_waffle64",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/paula.1.zspr",
+    "slug": "paula"
+  },
+  {
+    "name": "Princess Peach",
+    "author": "RoPan",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/peach.1.zspr",
+    "slug": "peach"
+  },
+  {
+    "name": "Penguin Link",
+    "author": "Fish_waffle64",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/penguinlink.2.zspr",
+    "slug": "penguinlink"
+  },
+  {
+    "name": "Pete",
+    "author": "Lantis",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/pete.2.zspr",
+    "slug": "pete"
+  },
+  {
+    "name": "Phoenix Wright",
+    "author": "SnipSlum",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/phoenix-wright.1.zspr",
+    "slug": "phoenix-wright"
+  },
+  {
+    "name": "Pikachu",
+    "author": "t0uchan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/pikachu.2.zspr",
+    "slug": "pikachu"
+  },
+  {
+    "name": "Pink Ribbon Link",
+    "author": "kan",
+    "version": 3,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/pinkribbonlink.3.zspr",
+    "slug": "pinkribbonlink"
+  },
+  {
+    "name": "Piranha Plant",
+    "author": "lecremateur",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/piranha_plant.1.zspr",
+    "slug": "piranha_plant"
+  },
+  {
+    "name": "Plague Knight",
+    "author": "Jenichi",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/plagueknight.1.zspr",
+    "slug": "plagueknight"
+  },
+  {
+    "name": "Pokey",
+    "author": "kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/pokey.2.zspr",
+    "slug": "pokey"
+  },
+  {
+    "name": "Popoi",
+    "author": "ItsSupercar",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/popoi.1.zspr",
+    "slug": "popoi"
+  },
+  {
+    "name": "Poppy",
+    "author": "cbass601",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/poppy.1.zspr",
+    "slug": "poppy"
+  },
+  {
+    "name": "Porg Knight",
+    "author": "PorgCollector",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/porg_knight.1.zspr",
+    "slug": "porg_knight"
+  },
+  {
+    "name": "Power Ranger",
+    "author": "Zeta Xero",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/power-ranger.1.zspr",
+    "slug": "power-ranger"
+  },
+  {
+    "name": "Powerpuff Girl",
+    "author": "Jenichi",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/powerpuff_girl.1.zspr",
+    "slug": "powerpuff_girl"
+  },
+  {
+    "name": "Pride Link",
+    "author": "proximitysound",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/pridelink.2.zspr",
+    "slug": "pridelink"
+  },
+  {
+    "name": "Primm",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/primm.1.zspr",
+    "slug": "primm"
+  },
+  {
+    "name": "Princess Bubblegum",
+    "author": "Devan2002",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/princess_bubblegum.1.zspr",
+    "slug": "princess_bubblegum"
+  },
+  {
+    "name": "The Professor",
+    "author": "PlaguedOne",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/professor.1.zspr",
+    "slug": "professor"
+  },
+  {
+    "name": "Psyduck",
+    "author": "skovacs1",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/psyduck.2.zspr",
+    "slug": "psyduck"
+  },
+  {
+    "name": "The Pug",
+    "author": "Achy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/pug.1.zspr",
+    "slug": "pug"
+  },
+  {
+    "name": "Purple Chest",
+    "author": "Mike Trethewey",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/purplechest-bottle.1.zspr",
+    "slug": "purplechest-bottle"
+  },
+  {
+    "name": "Pyro",
+    "author": "malmo",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/pyro.1.zspr",
+    "slug": "pyro"
+  },
+  {
+    "name": "QuadBanger",
+    "author": "Kai Gomez",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/quadbanger.1.zspr",
+    "slug": "quadbanger"
+  },
+  {
+    "name": "Rainbow Link",
+    "author": "kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rainbowlink.2.zspr",
+    "slug": "rainbowlink"
+  },
+  {
+    "name": "Rat",
+    "author": "atth3h3art0fwinter",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rat.1.zspr",
+    "slug": "rat"
+  },
+  {
+    "name": "Red Mage",
+    "author": "TheRedMage",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/red-mage.1.zspr",
+    "slug": "red-mage"
+  },
+  {
+    "name": "Remeer",
+    "author": "Herowho",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/remeer.1.zspr",
+    "slug": "remeer"
+  },
+  {
+    "name": "Remus R Black",
+    "author": "The3rdX",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/remus-ruldufus-black.1.zspr",
+    "slug": "remus-ruldufus-black"
+  },
+  {
+    "name": "Rick",
+    "author": "Eric the Terrible/Devan 2002",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rick.2.zspr",
+    "slug": "rick"
+  },
+  {
+    "name": "Robo-Link 9000",
+    "author": "kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/robotlink.2.zspr",
+    "slug": "robotlink"
+  },
+  {
+    "name": "Rocko",
+    "author": "t0uchan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rocko.2.zspr",
+    "slug": "rocko"
+  },
+  {
+    "name": "Rottytops",
+    "author": "PlaguedOne",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rottytops.1.zspr",
+    "slug": "rottytops"
+  },
+  {
+    "name": "Rover",
+    "author": "NO Body The Dragon",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rover.1.zspr",
+    "slug": "rover"
+  },
+  {
+    "name": "Roy Koopa",
+    "author": "Achy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/roykoopa.1.zspr",
+    "slug": "roykoopa"
+  },
+  {
+    "name": "Rumia",
+    "author": "Achy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rumia.1.zspr",
+    "slug": "rumia"
+  },
+  {
+    "name": "Rydia",
+    "author": "Sho",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rydia.1.zspr",
+    "slug": "rydia"
+  },
+  {
+    "name": "Ryu",
+    "author": "PlaguedOne",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ryu.1.zspr",
+    "slug": "ryu"
+  },
+  {
+    "name": "Sailor Moon",
+    "author": "Jenichi",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/sailormoon.1.zspr",
+    "slug": "sailormoon"
+  },
+  {
+    "name": "Saitama",
+    "author": "Dabeanjelly/Ath3h3art0fwinter",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/saitama.2.zspr",
+    "slug": "saitama"
+  },
+  {
+    "name": "Samus",
+    "author": "Fish_waffle64",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/samus.2.zspr",
+    "slug": "samus"
+  },
+  {
+    "name": "Samus (Super Metroid)",
+    "author": "Ben G",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/samus-sm.1.zspr",
+    "slug": "samus-sm"
+  },
+  {
+    "name": "Samus (Classic)",
+    "author": "Fish_waffle64",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/samus_classic.1.zspr",
+    "slug": "samus_classic"
+  },
+  {
+    "name": "Santa Hat Link",
+    "author": "Lexitik",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/santahat-link.1.zspr",
+    "slug": "santahat-link"
+  },
+  {
+    "name": "Santa Link",
+    "author": "HOHOHO",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/santalink.2.zspr",
+    "slug": "santalink"
+  },
+  {
+    "name": "Scholar",
+    "author": "Damon",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/scholar.1.zspr",
+    "slug": "scholar"
+  },
+  {
+    "name": "Selan",
+    "author": "atth3h3art0fwinter",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/selan.2.zspr",
+    "slug": "selan"
+  },
+  {
+    "name": "SevenS1ns",
+    "author": "Hroun",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/sevens1ns.1.zspr",
+    "slug": "sevens1ns"
+  },
+  {
+    "name": "Shadow",
+    "author": "CGG Zayik",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/shadow.1.zspr",
+    "slug": "shadow"
+  },
+  {
+    "name": "Shadow Sakura",
+    "author": "iBazly",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/shadowsaku.2.zspr",
+    "slug": "shadowsaku"
+  },
+  {
+    "name": "Shantae",
+    "author": "skovacs1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/shantae.1.zspr",
+    "slug": "shantae"
+  },
+  {
+    "name": "Shuppet",
+    "author": "kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/shuppet.2.zspr",
+    "slug": "shuppet"
+  },
+  {
+    "name": "Shy Gal",
+    "author": "FedoraFriday",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/shy-gal.1.zspr",
+    "slug": "shy-gal"
+  },
+  {
+    "name": "Shy Guy",
+    "author": "skovacs1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/shy-guy.1.zspr",
+    "slug": "shy-guy"
+  },
+  {
+    "name": "SighnWaive",
+    "author": "GenoCL",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/sighn_waive.1.zspr",
+    "slug": "sighn_waive"
+  },
+  {
+    "name": "Skunk",
+    "author": "Hiveul",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/skunk.1.zspr",
+    "slug": "skunk"
+  },
+  {
+    "name": "DQ Slime",
+    "author": "KamenRideDecade",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/slime.1.zspr",
+    "slug": "slime"
+  },
+  {
+    "name": "Slowpoke",
+    "author": "Joey_Rat",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/slowpoke.2.zspr",
+    "slug": "slowpoke"
+  },
+  {
+    "name": "SNES Controller",
+    "author": "cbass601",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/snes-controller.2.zspr",
+    "slug": "snes-controller"
+  },
+  {
+    "name": "Soda Can",
+    "author": "Zarby89",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/sodacan.1.zspr",
+    "slug": "sodacan"
+  },
+  {
+    "name": "Solaire of Astora",
+    "author": "Knilip",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/solaire.1.zspr",
+    "slug": "solaire"
+  },
+  {
+    "name": "Hyrule Soldier",
+    "author": "InTheBeef",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/soldiersprite.1.zspr",
+    "slug": "soldiersprite"
+  },
+  {
+    "name": "Sonic the Hedgehog",
+    "author": "Osaka",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/sonic.1.zspr",
+    "slug": "sonic"
+  },
+  {
+    "name": "Sora",
+    "author": "roxas232",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/sora.1.zspr",
+    "slug": "sora"
+  },
+  {
+    "name": "Sora (KH1)",
+    "author": "ScatlinkSean",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/sora_kh1.1.zspr",
+    "slug": "sora_kh1"
+  },
+  {
+    "name": "SpongeBob SquarePants",
+    "author": "JJ0033LL",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/spongebob.1.zspr",
+    "slug": "spongebob"
+  },
+  {
+    "name": "Squall",
+    "author": "Maessan",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/squall.1.zspr",
+    "slug": "squall"
+  },
+  {
+    "name": "Squirrel",
+    "author": "Fish_waffle64",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/squirrel.1.zspr",
+    "slug": "squirrel"
+  },
+  {
+    "name": "Squirtle",
+    "author": "Numberplay",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/squirtle.1.zspr",
+    "slug": "squirtle"
+  },
+  {
+    "name": "Stalfos",
+    "author": "Artheau",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/stalfos.1.zspr",
+    "slug": "stalfos"
+  },
+  {
+    "name": "Stan",
+    "author": "kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/stan.2.zspr",
+    "slug": "stan"
+  },
+  {
+    "name": "Static Link",
+    "author": "kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/staticlink.2.zspr",
+    "slug": "staticlink"
+  },
+  {
+    "name": "Steamed Ham",
+    "author": "AFewGoodTaters",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/steamedhams.1.zspr",
+    "slug": "steamedhams"
+  },
+  {
     "name": "Stick Man",
     "author": "skovacs1",
     "version": 1,
@@ -47,5 +2202,341 @@
     "usage": [
       "smz3"
     ]
+  },
+  {
+    "name": "Super Bomb",
+    "author": "Ninjakauz",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/superbomb.1.zspr",
+    "slug": "superbomb"
+  },
+  {
+    "name": "Super Bunny",
+    "author": "TheOkayGuy",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/superbunny.2.zspr",
+    "slug": "superbunny"
+  },
+  {
+    "name": "Super Meat Boy",
+    "author": "Achy",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/supermeatboy.1.zspr",
+    "slug": "supermeatboy"
+  },
+  {
+    "name": "Susie",
+    "author": "ZandraVandra",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/susie.1.zspr",
+    "slug": "susie"
+  },
+  {
+    "name": "Swatchy",
+    "author": "Mike Trethewey",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/swatchy.1.zspr",
+    "slug": "swatchy"
+  },
+  {
+    "name": "TASBot",
+    "author": "GenoCL",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/tasbot.1.zspr",
+    "slug": "tasbot"
+  },
+  {
+    "name": "Tea Time",
+    "author": "SirCzah",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/teatime.1.zspr",
+    "slug": "teatime"
+  },
+  {
+    "name": "Terra (Esper)",
+    "author": "All-in-one Mighty",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/terra.1.zspr",
+    "slug": "terra"
+  },
+  {
+    "name": "Terry",
+    "author": "CD-Mestay",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/terry.1.zspr",
+    "slug": "terry"
+  },
+  {
+    "name": "Tetra Sheet",
+    "author": "Ferelheart",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/tetra.1.zspr",
+    "slug": "tetra"
+  },
+  {
+    "name": "TGH",
+    "author": "Drew Wise, pizza_for_free",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/tgh.1.zspr",
+    "slug": "tgh"
+  },
+  {
+    "name": "Thief",
+    "author": "Devan2002",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thief.1.zspr",
+    "slug": "thief"
+  },
+  {
+    "name": "ThinkDorm",
+    "author": "PlaguedOne",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thinkdorm.1.zspr",
+    "slug": "thinkdorm"
+  },
+  {
+    "name": "Thomcrow",
+    "author": "Thom",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thomcrow.1.zspr",
+    "slug": "thomcrow"
+  },
+  {
+    "name": "Tile",
+    "author": "kan",
+    "version": 3,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/tile.3.zspr",
+    "slug": "tile"
+  },
+  {
+    "name": "Tingle",
+    "author": "Xenobond",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/tingle.1.zspr",
+    "slug": "tingle"
+  },
+  {
+    "name": "TMNT",
+    "author": "SirCzah",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/tmnt.1.zspr",
+    "slug": "tmnt"
+  },
+  {
+    "name": "Toad",
+    "author": "Zarby89",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/toad.2.zspr",
+    "slug": "toad"
+  },
+  {
+    "name": "Toadette",
+    "author": "Devan2002",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/toadette.2.zspr",
+    "slug": "toadette"
+  },
+  {
+    "name": "Captain Toadette",
+    "author": "Devan2002",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/toadette_captain.1.zspr",
+    "slug": "toadette_captain"
+  },
+  {
+    "name": "TotemLinks",
+    "author": "Yotohan",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/totem-links.1.zspr",
+    "slug": "totem-links"
+  },
+  {
+    "name": "Trogdor the Burninator",
+    "author": "Mike Trethewey/kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/trogdor.2.zspr",
+    "slug": "trogdor"
+  },
+  {
+    "name": "TP Zelda",
+    "author": "Fish_waffle64",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/twilightprincesszelda.2.zspr",
+    "slug": "twilightprincesszelda"
+  },
+  {
+    "name": "TwoFaced",
+    "author": "Devan2002",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/two_faced.2.zspr",
+    "slug": "two_faced"
+  },
+  {
+    "name": "Ty the Tasmanian Tiger",
+    "author": "Fish_waffle64",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ty.1.zspr",
+    "slug": "ty"
+  },
+  {
+    "name": "Ultros",
+    "author": "PlaguedOne",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ultros.1.zspr",
+    "slug": "ultros"
+  },
+  {
+    "name": "Valeera",
+    "author": "Glan",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/valeera.1.zspr",
+    "slug": "valeera"
+  },
+  {
+    "name": "VanillaLink",
+    "author": "Jenichi",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/vanillalink.1.zspr",
+    "slug": "vanillalink"
+  },
+  {
+    "name": "Vaporeon",
+    "author": "Aquana",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/vaporeon.1.zspr",
+    "slug": "vaporeon"
+  },
+  {
+    "name": "Vegeta",
+    "author": "Merciter",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/vegeta.1.zspr",
+    "slug": "vegeta"
+  },
+  {
+    "name": "Vera",
+    "author": "aitchFactor",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/vera.1.zspr",
+    "slug": "vera"
+  },
+  {
+    "name": "Vitreous",
+    "author": "Glan",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/vitreous.1.zspr",
+    "slug": "vitreous"
+  },
+  {
+    "name": "Vivi",
+    "author": "RyuTech",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/vivi.1.zspr",
+    "slug": "vivi"
+  },
+  {
+    "name": "Vivian",
+    "author": "SirCzah",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/vivian.1.zspr",
+    "slug": "vivian"
+  },
+  {
+    "name": "Wario",
+    "author": "Deagans",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/wario.1.zspr",
+    "slug": "wario"
+  },
+  {
+    "name": "White Mage",
+    "author": "TheRedMage",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/whitemage.1.zspr",
+    "slug": "whitemage"
+  },
+  {
+    "name": "Will",
+    "author": "Xenobond",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/will.1.zspr",
+    "slug": "will"
+  },
+  {
+    "name": "Wizzrobe",
+    "author": "iBazly",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/wizzrobe.2.zspr",
+    "slug": "wizzrobe"
+  },
+  {
+    "name": "Wolf Link (Festive)",
+    "author": "Fish/Beef-Chan",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/wolf_link.1.zspr",
+    "slug": "wolf_link"
+  },
+  {
+    "name": "Wolf Link (TP)",
+    "author": "Gfish59",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/wolf_link_tp.1.zspr",
+    "slug": "wolf_link_tp"
+  },
+  {
+    "name": "Yoshi",
+    "author": "Yotohan",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/yoshi.1.zspr",
+    "slug": "yoshi"
+  },
+  {
+    "name": "Yunica Tovah",
+    "author": "Fish_waffle64",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/yunica.2.zspr",
+    "slug": "yunica"
+  },
+  {
+    "name": "Zandra",
+    "author": "ZandraVandra",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/zandra.2.zspr",
+    "slug": "zandra"
+  },
+  {
+    "name": "Zebra Unicorn",
+    "author": "Brass Man",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/zebraunicorn.1.zspr",
+    "slug": "zebraunicorn"
+  },
+  {
+    "name": "Zeckemyro",
+    "author": "aitchFactor",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/zeck.2.zspr",
+    "slug": "zeck"
+  },
+  {
+    "name": "Zelda",
+    "author": "Myriachan",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/zelda.1.zspr",
+    "slug": "zelda"
+  },
+  {
+    "name": "Zero Suit Samus",
+    "author": "Fish_waffle64",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/zerosuitsamus.2.zspr",
+    "slug": "zerosuitsamus"
+  },
+  {
+    "name": "Zora",
+    "author": "Zarby, InTheBeef",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/zora.2.zspr",
+    "slug": "zora"
   }
 ]
