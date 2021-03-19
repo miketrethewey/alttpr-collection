@@ -110,7 +110,8 @@
     "tags": [
       "Angry Video Game Nerd",
       "Male",
-      "Personality"
+      "Personality",
+      "Streamer"
     ],
     "usage": [
       "commercial",
@@ -176,7 +177,7 @@
       "The Legend of Zelda: A Link to the Past",
       "Male",
       "Legend of Zelda",
-      "NPC"
+      "Boss"
     ],
     "usage": [
       "smz3"
@@ -217,91 +218,214 @@
     "author": "Jam",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/badeline.1.zspr",
-    "slug": "badeline"
+    "slug": "badeline",
+    "tags": [
+      "Badeline",
+      "Celeste",
+      "Female",
+      "Celeste",
+      "NPC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Bananas In Pyjamas",
     "author": "codemann8",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bananas-in-pyjamas.1.zspr",
-    "slug": "bananas-in-pyjamas"
+    "slug": "bananas-in-pyjamas",
+    "tags": [
+      "B1",
+      "Cartoon",
+      "Bananas in Pyjamas"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Bandit",
     "author": "Fenrika",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bandit.1.zspr",
-    "slug": "bandit"
+    "slug": "bandit",
+    "tags": [
+      "Bandit",
+      "Super Mario World 2: Yoshi\u2019s Island",
+      "Mario Bros",
+      "NPC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Batman",
     "author": "Ninjakauz",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/batman.1.zspr",
-    "slug": "batman"
+    "slug": "batman",
+    "tags": [
+      "Batman",
+      "Male",
+      "DC Comics",
+      "Superhero"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Beau",
     "author": "Achy",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/beau.1.zspr",
-    "slug": "beau"
+    "slug": "beau",
+    "tags": [
+      "Beau",
+      "Animal Crossing",
+      "Male",
+      "Animal Crossing"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Bewp",
     "author": "Valechec",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bewp.1.zspr",
-    "slug": "bewp"
+    "slug": "bewp",
+    "tags": [
+      "Personality",
+      "Streamer"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Big Key",
     "author": "kan",
     "version": 2,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bigkey.2.zspr",
-    "slug": "bigkey"
+    "slug": "bigkey",
+    "tags": [
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "Item"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Birb",
     "author": "Dr. Deadrewski",
     "version": 2,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/birb.2.zspr",
-    "slug": "birb"
+    "slug": "birb",
+    "tags": [
+      "Personality",
+      "Streamer"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Birdo",
     "author": "BlackTycoon",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/birdo.1.zspr",
-    "slug": "birdo"
+    "slug": "birdo",
+    "tags": [
+      "Birdo",
+      "Super Mario Bros 2",
+      "Female",
+      "Mario Bros",
+      "Boss"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Black Mage",
     "author": "TheRedMage",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/blackmage.1.zspr",
-    "slug": "blackmage"
+    "slug": "blackmage",
+    "tags": [
+      "Black Mage",
+      "Final Fantasy",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Blacksmith Link",
     "author": "Glan",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/blacksmithlink.1.zspr",
-    "slug": "blacksmithlink"
+    "slug": "blacksmithlink",
+    "tags": [
+      "Link",
+      "The Legend of Zelda: A Link to the Past",
+      "Male",
+      "Legend of Zelda",
+      "PC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Blazer",
     "author": "Herowho",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/blazer.1.zspr",
-    "slug": "blazer"
+    "slug": "blazer",
+    "tags": [
+      "Blazer",
+      "Soul Blazer",
+      "Male",
+      "Soul Blazer",
+      "PC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Blossom",
     "author": "Artheau",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/blossom.1.zspr",
-    "slug": "blossom"
+    "slug": "blossom",
+    "tags": [
+      "Blossom",
+      "Female",
+      "Cartoon",
+      "Powerpuff Girls"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Bob",
@@ -325,133 +449,300 @@
     "author": "CaptainApathy",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bobross.1.zspr",
-    "slug": "bobross"
+    "slug": "bobross",
+    "tags": [
+      "Bob Ross",
+      "Male",
+      "Personality"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Boco the Chocobo",
     "author": "TarThoron",
     "version": 2,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/boco.2.zspr",
-    "slug": "boco"
+    "slug": "boco",
+    "tags": [
+      "Final Fantasy",
+      "Final Fantasy"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Boo",
     "author": "Zarby89",
     "version": 2,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/boo.2.zspr",
-    "slug": "boo"
+    "slug": "boo",
+    "tags": [
+      "Boo",
+      "Neutral",
+      "Mario Bros",
+      "NPC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Boo 2",
     "author": "Achy",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/boo-two.1.zspr",
-    "slug": "boo-two"
+    "slug": "boo-two",
+    "tags": [
+      "Boo",
+      "Neutral",
+      "Mario Bros",
+      "NPC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Bottle o' Goo",
     "author": "Fish_waffle64",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bottle_o_goo.1.zspr",
-    "slug": "bottle_o_goo"
+    "slug": "bottle_o_goo",
+    "tags": [
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "Item"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "BotW Link",
     "author": "Pasta La Vista",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/botw-link.1.zspr",
-    "slug": "botw-link"
+    "slug": "botw-link",
+    "tags": [
+      "Link",
+      "The Legend of Zelda: Breath of the Wild",
+      "Male",
+      "Legend of Zelda",
+      "PC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "BotW Zelda",
     "author": "Roo",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/botw-zelda.1.zspr",
-    "slug": "botw-zelda"
+    "slug": "botw-zelda",
+    "tags": [
+      "Zelda",
+      "The Legend of Zelda: Breath of the Wild",
+      "Female",
+      "Legend of Zelda",
+      "NPC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Bowser",
     "author": "Artheau",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bowser.1.zspr",
-    "slug": "bowser"
+    "slug": "bowser",
+    "tags": [
+      "Bowser",
+      "Male",
+      "Mario Bros",
+      "NPC"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Bowsette",
     "author": "Sarah Shinespark",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bowsette.1.zspr",
-    "slug": "bowsette"
+    "slug": "bowsette",
+    "tags": [
+      "Bowsette",
+      "Female",
+      "Mario Bros"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Bowsette Red",
     "author": "Sarah Shinespark",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bowsette-red.1.zspr",
-    "slug": "bowsette-red"
+    "slug": "bowsette-red",
+    "tags": [
+      "Bowsette",
+      "Female",
+      "Mario Bros"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Branch",
     "author": "cbass601",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/branch.1.zspr",
-    "slug": "branch"
+    "slug": "branch",
+    "tags": [
+      "Branch",
+      "Trolls"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Brian",
     "author": "Herowho",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/brian.1.zspr",
-    "slug": "brian"
+    "slug": "brian",
+    "tags": [
+      "Brian",
+      "Quest 64",
+      "Male",
+      "Quest",
+      "PC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Broccoli",
     "author": "kan",
     "version": 2,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/broccoli.2.zspr",
-    "slug": "broccoli"
+    "slug": "broccoli",
+    "tags": [
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "NPC"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Bronzor",
     "author": "kan",
     "version": 2,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bronzor.2.zspr",
-    "slug": "bronzor"
+    "slug": "bronzor",
+    "tags": [
+      "Bronzor",
+      "Pok\u00e9mon",
+      "Pok\u00e9mon"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "B.S. Boy",
     "author": "InTheBeef",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bsboy.1.zspr",
-    "slug": "bsboy"
+    "slug": "bsboy",
+    "tags": [
+      "BS Boy",
+      "BS The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "PC"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "B.S. Girl",
     "author": "InTheBeef",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bsgirl.1.zspr",
-    "slug": "bsgirl"
+    "slug": "bsgirl",
+    "tags": [
+      "BS Girl",
+      "BS The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "PC"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Bubbles",
     "author": "Artheau",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bubbles.1.zspr",
-    "slug": "bubbles"
+    "slug": "bubbles",
+    "tags": [
+      "Bubbles",
+      "Powerpuff Girls"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Bullet Bill",
     "author": "Artheau",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bullet_bill.1.zspr",
-    "slug": "bullet_bill"
+    "slug": "bullet_bill",
+    "tags": [
+      "Bullet Bill",
+      "Mario Bros",
+      "NPC"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Buttercup",
     "author": "Artheau",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/buttercup.1.zspr",
-    "slug": "buttercup"
+    "slug": "buttercup",
+    "tags": [
+      "Buttercup",
+      "Powerpuff Girls"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Cactuar",
