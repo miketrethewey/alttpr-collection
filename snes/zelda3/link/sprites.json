@@ -239,6 +239,7 @@
     "slug": "bananas-in-pyjamas",
     "tags": [
       "B1",
+      "Female",
       "Cartoon",
       "Bananas in Pyjamas"
     ],
@@ -368,6 +369,7 @@
     "tags": [
       "Black Mage",
       "Final Fantasy",
+      "Male",
       "Final Fantasy",
       "PC"
     ],
@@ -517,6 +519,7 @@
     "slug": "bottle_o_goo",
     "tags": [
       "The Legend of Zelda: A Link to the Past",
+      "Neutral",
       "Legend of Zelda",
       "Item"
     ],
@@ -678,6 +681,7 @@
     "tags": [
       "BS Boy",
       "BS The Legend of Zelda: A Link to the Past",
+      "Male",
       "Legend of Zelda",
       "PC"
     ],
@@ -694,6 +698,7 @@
     "tags": [
       "BS Girl",
       "BS The Legend of Zelda: A Link to the Past",
+      "Female",
       "Legend of Zelda",
       "PC"
     ],
@@ -709,6 +714,7 @@
     "slug": "bubbles",
     "tags": [
       "Bubbles",
+      "Female",
       "Powerpuff Girls"
     ],
     "usage": [
@@ -723,6 +729,7 @@
     "slug": "bullet_bill",
     "tags": [
       "Bullet Bill",
+      "Neutral",
       "Mario Bros",
       "NPC"
     ],
@@ -738,6 +745,7 @@
     "slug": "buttercup",
     "tags": [
       "Buttercup",
+      "Female",
       "Powerpuff Girls"
     ],
     "usage": [
@@ -749,154 +757,340 @@
     "author": "RyuTech",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cactuar.1.zspr",
-    "slug": "cactuar"
+    "slug": "cactuar",
+    "tags": [
+      "Cactuar",
+      "Neutral",
+      "Final Fantasy"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Cadence",
     "author": "Fish_waffle64",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cadence.1.zspr",
-    "slug": "cadence"
+    "slug": "cadence",
+    "tags": [
+      "Cadence",
+      "Cadence of Hyrule",
+      "Female",
+      "Crypt of the Necrodancer",
+      "PC"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "CarlSagan42",
     "author": "FedoraFriday",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/carlsagan42.1.zspr",
-    "slug": "carlsagan42"
+    "slug": "carlsagan42",
+    "tags": [
+      "CarlSagan42",
+      "Male",
+      "Personality",
+      "Streamer"
+    ],
+    "usage": [
+      "commercial"
+    ]
   },
   {
     "name": "Casual Zelda",
     "author": "Fish_waffle64",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/casual-zelda.1.zspr",
-    "slug": "casual-zelda"
+    "slug": "casual-zelda",
+    "tags": [
+      "Zelda",
+      "Female",
+      "Original"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Marvin the Cat",
     "author": "Fish_waffle64",
     "version": 3,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cat.3.zspr",
-    "slug": "cat"
+    "slug": "cat",
+    "tags": [
+      "Marvin the Cat",
+      "Male",
+      "Personality"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Cat Boo",
     "author": "JaySee87",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/catboo.1.zspr",
-    "slug": "catboo"
+    "slug": "catboo",
+    "tags": [
+      "Cat Boo"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "CD-i Link",
     "author": "SnipSlum",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cdilink.1.zspr",
-    "slug": "cdilink"
+    "slug": "cdilink",
+    "tags": [
+      "Link",
+      "Male",
+      "Legend of Zelda",
+      "PC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Celes",
     "author": "Deagans",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/celes.1.zspr",
-    "slug": "celes"
+    "slug": "celes",
+    "tags": [
+      "Celes",
+      "Female",
+      "Final Fantasy"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Charizard",
     "author": "Charmander106",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/charizard.1.zspr",
-    "slug": "charizard"
+    "slug": "charizard",
+    "tags": [
+      "Charizard",
+      "Pok\u00e9mon"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Cheep Cheep",
     "author": "Faw",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cheepcheep.1.zspr",
-    "slug": "cheepcheep"
+    "slug": "cheepcheep",
+    "tags": [
+      "Cheep Cheep",
+      "Mario Bros",
+      "NPC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Chibity",
     "author": "Ecyro",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/chibity.1.zspr",
-    "slug": "chibity"
+    "slug": "chibity",
+    "tags": [
+      "Chibity",
+      "Personality"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Chrizzz",
     "author": "Chrizzz",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/chrizzz.1.zspr",
-    "slug": "chrizzz"
+    "slug": "chrizzz",
+    "tags": [
+      "Link",
+      "Personality"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Cinna",
     "author": "norskmatty",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cinna.1.zspr",
-    "slug": "cinna"
+    "slug": "cinna",
+    "tags": [
+      "Cinna",
+      "Personality"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Cirno",
     "author": "Achy",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cirno.1.zspr",
-    "slug": "cirno"
+    "slug": "cirno",
+    "tags": [
+      "Cirno",
+      "Female",
+      "Touhou Project"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Clifford",
     "author": "PlaguedOne",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/clifford.1.zspr",
-    "slug": "clifford"
+    "slug": "clifford",
+    "tags": [
+      "Clifford",
+      "Male",
+      "Clifford the Big Red Dog"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Clyde",
     "author": "Artheau",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/clyde.1.zspr",
-    "slug": "clyde"
+    "slug": "clyde",
+    "tags": [
+      "Clyde",
+      "Male",
+      "Pac-Man"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Conker",
     "author": "Charmander106/SePH",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/conker.1.zspr",
-    "slug": "conker"
+    "slug": "conker",
+    "tags": [
+      "Conker",
+      "Male",
+      "Conker"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Cornelius",
     "author": "Lori",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cornelius.1.zspr",
-    "slug": "cornelius"
+    "slug": "cornelius",
+    "tags": [
+      "Cornelius",
+      "Male",
+      "Odin Sphere"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Corona",
     "author": "Herowho",
     "version": 2,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/corona.2.zspr",
-    "slug": "corona"
+    "slug": "corona",
+    "tags": [
+      "Corona",
+      "Male",
+      "King\u2019s Quest"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Crewmate",
     "author": "Fish_waffle64",
     "version": 2,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/crewmate.2.zspr",
-    "slug": "crewmate"
+    "slug": "crewmate",
+    "tags": [
+      "Crewmate",
+      "Among Us",
+      "Among Us",
+      "PC"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "Cucco",
     "author": "Mike Trethewey",
     "version": 2,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cucco.2.zspr",
-    "slug": "cucco"
+    "slug": "cucco",
+    "tags": [
+      "Cucco",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "NPC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
   },
   {
     "name": "Cursor",
     "author": "PlaguedOne",
     "version": 1,
     "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cursor.1.zspr",
-    "slug": "cursor"
+    "slug": "cursor",
+    "tags": [
+      "Cursor",
+      "Neutral"
+    ],
+    "usage": [
+      "smz3"
+    ]
   },
   {
     "name": "D.Owls",
