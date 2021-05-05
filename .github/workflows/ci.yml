@@ -53,14 +53,14 @@ jobs:
       - name: Process Previews
         run: |
           python ./resources/ci/common/process_previews.py
+      # Custom-Cleanup Workspace
+      - name: Custom-Cleanup Workspace
+        run: |
+          python ./resources/ci/common/custom_cleanup.py
       # Cleanup Workspace
       - name: Cleanup Workspace
         run: |
           python ./resources/ci/common/cleanup.py
-      # Post-Cleanup Workspace
-      - name: Post-Cleanup Workspace
-        run: |
-          python ./resources/ci/common/post_cleanup.py
       # upload pages artifact for later step
       - name: Upload Pages Artifact
         uses: actions/upload-artifact@v2
