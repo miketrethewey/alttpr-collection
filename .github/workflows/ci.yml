@@ -57,6 +57,10 @@ jobs:
       - name: Cleanup Workspace
         run: |
           python ./resources/ci/common/cleanup.py
+      # Post-Cleanup Workspace
+      - name: Post-Cleanup Workspace
+        run: |
+          python ./resources/ci/common/post_cleanup.py
       # upload pages artifact for later step
       - name: Upload Pages Artifact
         uses: actions/upload-artifact@v2
