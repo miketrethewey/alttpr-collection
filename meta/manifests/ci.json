@@ -4,8 +4,7 @@
       "nuke": [
         ".git",
         ".github",
-        "resources",
-        "snes/zelda3/link/sheets/001.link.1.zspr"
+        "resources"
       ]
     },
     "common": {
