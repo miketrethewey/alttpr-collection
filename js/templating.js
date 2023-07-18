@@ -54,6 +54,30 @@ function add_template(name,attrs) {
       .attr({
         "style": "background-image:url(" + attrs["preview"] + ")"
       });
+    if("usage" in attrs) {
+      console.log(attrs["usage"]);
+      if(attrs["usage"].indexOf("global") > -1) {
+        attrs["usage"] = attrs["usage"].indexOf("commercial") > -1 ? ["commercial","global"] : ["global"];
+      }
+      if(attrs["usage"].indexOf("commercial") < 0) {
+        attrs["usage"].push("commercial-no")
+      }
+      attrs["usage"].sort();
+      for(let usage of attrs["usage"]) {
+        let no = usage.endsWith("-no");
+        if(no) {
+          usage = usage.substr(0,usage.length - 3);
+        }
+        let iconDiv = $("<div>")
+          .attr("class","usage-icon " + "u-" + usage);
+        if(no) {
+          iconDiv.append($("<img>")
+            .attr("src","../../../icons/usage/no.png")
+          )
+        }
+        $(tmp).find(".sprite").append(iconDiv);
+      }
+    }
     $("#sprite-previewlist").append(tmp);
   } else if(name == "resource") {
     // If it's a Resource link
